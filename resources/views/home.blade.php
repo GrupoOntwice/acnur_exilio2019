@@ -63,45 +63,48 @@
 			<div class="content_datos">
 				<div class="bg_datos"></div>
 				<div class="datos_info" >
-					<br>
-					<hr>
-					<p style="text-align: center; font-size: 24px">
-						<strong>
-							El exilio español en México: 80 años de legado
-						</strong>
-					</p>
-					<hr>
-					<p>
-						Este 2019 se conmemoran los 80 años del exilio español en México. A finales de los años 1930, miles de españoles huyeron su país por la violencia, la Guerra Civil y la dictadura de Francisco Franco. Hoy, estos exiliados hacen un llamado a apoyar a los centroamericanos y venezolanos que actualmente huyen por la violencia y la situación política que impactan a sus países en busca de un mejor futuro.
-					</p>
-
-					<p>
-						Entre 20,000 y 25,000 españoles se exiliaron en México entre 1939 y 1942 gracias al apoyo del presidente Lázaro Cárdenas.
-					</p>
-                    <p>
-                        Previo a la creación del ACNUR en 1950, México como varios otros países fueron solidarios con apoyar a los españoles al ofrecerles asilo durante la Guerra Civil y la dictadura de Franco, así como de personas de otras naciones en la Segunda Guerra Mundial que se llevaba a cabo al mismo tiempo en Europa.
-                    </p>
-                    <p>
-                        El 14 de diciembre de 1950 al término de la Segunda Guerra Mundial, se creó el ACNUR para ayudar a los millones de europeos desplazados por el conflicto. La Asamblea General de Naciones Unidas otorgó a ACNUR un mandato de tres años para completar sus labores y luego disolverse. Hoy, 69 años después, nuestra organización continúa con la labor de proteger y asistir a los refugiados alrededor del mundo. En México, el ACNUR tiene presencia desde 1982 y ha apoyado a los exiliados de las dictaduras en América Latina en los años 1980 y de la Guerra Civil en Centroamérica en los años 1990.
-                    </p>
-                    <p>
-                        A finales de los años 1930 y principios de los 1940, miles de españoles optaron por huir debido a la violencia y la persecución que se vivía en España durante la Guerra Civil y el franquismo. De estos refugiados se estima que la inmigración de intelectuales o élite español se conformaba de aproximadamente un 25% del total (5,500 aproximadamente). A este fenómeno también se calificó como el exilio republicano español debido a que estaban vinculados al gobierno republicado derrotado.
-                    </p>
-                    <p>
-                        Los Gobiernos de las Repúblicas mexicana y española habían preparado el asilo para un gran número de españoles, cuyo desembarco data del 13 de junio de 1939, fecha en que el barco Sinaia tocó tierra en Veracruz. Los barcos Mexique, Ipanema, Orinoco, Flandre o Nyassa también significan para muchos de ellos la salvación en su nuevo país de acogida: México.
-                    </p>
-                    <p>
-                        Se destaca también que llegaron además obreros, campesinos, así como militares, marinos y pilotos, hombres de Estado, economistas y empresarios, todos ellos vinculados al Gobierno republicano derrotado en la guerra.
-                    </p>
-                    <p>
-                        Gracias al apoyo del Ateneo español, ACNUR accedió a varios exiliados para relatar sus historias.
-                    </p>
-					<a class="dona" href="https://donate.unhcr.org/la-es/siria-arrival" target="_blank">
-						<strong>AYUDAR</strong>
-						<p>
-							 Tú donación hace la diferencia
+					<div style="height: 77vh">
+						<br>
+						<hr>
+						<p style="text-align: center; font-size: 24px">
+							<strong>
+								El exilio español en México: 80 años de legado
+							</strong>
 						</p>
-					</a>
+						<hr>
+						<p>
+							Este 2019 se conmemoran los 80 años del exilio español en México. A finales de los años 1930, miles de españoles huyeron su país por la violencia, la Guerra Civil y la dictadura de Francisco Franco. Hoy, estos exiliados hacen un llamado a apoyar a los centroamericanos y venezolanos que actualmente huyen por la violencia y la situación política que impactan a sus países en busca de un mejor futuro.
+						</p>
+
+						<p>
+							Entre 20,000 y 25,000 españoles se exiliaron en México entre 1939 y 1942 gracias al apoyo del presidente Lázaro Cárdenas.
+						</p>
+	                    <p>
+	                        Previo a la creación del ACNUR en 1950, México como varios otros países fueron solidarios con apoyar a los españoles al ofrecerles asilo durante la Guerra Civil y la dictadura de Franco, así como de personas de otras naciones en la Segunda Guerra Mundial que se llevaba a cabo al mismo tiempo en Europa.
+	                    </p>
+	                    <p>
+	                        El 14 de diciembre de 1950 al término de la Segunda Guerra Mundial, se creó el ACNUR para ayudar a los millones de europeos desplazados por el conflicto. La Asamblea General de Naciones Unidas otorgó a ACNUR un mandato de tres años para completar sus labores y luego disolverse. Hoy, 69 años después, nuestra organización continúa con la labor de proteger y asistir a los refugiados alrededor del mundo. En México, el ACNUR tiene presencia desde 1982 y ha apoyado a los exiliados de las dictaduras en América Latina en los años 1980 y de la Guerra Civil en Centroamérica en los años 1990.
+	                    </p>
+	                    <p>
+	                        A finales de los años 1930 y principios de los 1940, miles de españoles optaron por huir debido a la violencia y la persecución que se vivía en España durante la Guerra Civil y el franquismo. De estos refugiados se estima que la inmigración de intelectuales o élite español se conformaba de aproximadamente un 25% del total (5,500 aproximadamente). A este fenómeno también se calificó como el exilio republicano español debido a que estaban vinculados al gobierno republicado derrotado.
+	                    </p>
+	                    <p>
+	                        Los Gobiernos de las Repúblicas mexicana y española habían preparado el asilo para un gran número de españoles, cuyo desembarco data del 13 de junio de 1939, fecha en que el barco Sinaia tocó tierra en Veracruz. Los barcos Mexique, Ipanema, Orinoco, Flandre o Nyassa también significan para muchos de ellos la salvación en su nuevo país de acogida: México.
+	                    </p>
+	                    <p>
+	                        Se destaca también que llegaron además obreros, campesinos, así como militares, marinos y pilotos, hombres de Estado, economistas y empresarios, todos ellos vinculados al Gobierno republicano derrotado en la guerra.
+	                    </p>
+	                    <p>
+	                        Gracias al apoyo del Ateneo español, ACNUR accedió a varios exiliados para relatar sus historias.
+	                    </p>
+						<a class="dona" href="https://donate.unhcr.org/la-es/siria-arrival" target="_blank">
+							<strong>AYUDAR</strong>
+							<p>
+								 Tú donación hace la diferencia
+							</p>
+						</a>
+						<br><br>
+					</div>
 				</div>
 
 
