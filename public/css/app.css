@@ -500,9 +500,8 @@ main {
 }
 
 main .home {
-  background-image: url(/images/bg_header.png);
+  background-image: url(/images/header.jpg);
   background-repeat: no-repeat;
-  background-position: bottom left;
   background-size: cover;
 }
 
@@ -525,7 +524,8 @@ main .home .container {
 
 main .home .container .content_home {
   width: 100%;
-  margin-top: 10vh;
+  margin-top: 20vh;
+  margin-bottom: 20vh;
 }
 
 main .home .container .content_home .texto_h1 {
@@ -542,15 +542,20 @@ main .home .container .content_home .texto_h1 {
 
 main .home .container .content_home p {
   font-family: "Montserrat", sans-serif;
-  font-size: 24px;
+  font-size: 22px;
   font-style: italic;
   color: #ffffff;
   text-align: center;
-  max-width: 700px;
+  max-width: 800px;
   width: 80%;
   margin: 0 auto;
   margin-top: 6vh;
+  padding:10px;
   font-weight: 100;
+
+  background-color: #000;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
 }
 
 main .home .container .mouse_scroll {
@@ -615,14 +620,11 @@ main .datos .content_datos {
 main .datos .content_datos .datos_info {
   background-color: #666666;
   width: 40%;
-  min-height: 78vh;
-  height: auto;
+  height: 700px;
   position: absolute;
-  top: calc(-4vh - 15px);
-  right: 5vw;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+
+  right: 3vw;
+
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
@@ -634,9 +636,12 @@ main .datos .content_datos .datos_info {
       -ms-flex-align: center;
           align-items: center;
   padding-bottom: 30px;
+
+  margin-bottom: 60px;
 }
 
 main .datos .content_datos .datos_info p {
+
   font-family: "Montserrat", sans-serif;
   font-weight: 100;
   font-size: 16px;
@@ -646,6 +651,7 @@ main .datos .content_datos .datos_info p {
 }
 
 main .datos .content_datos .datos_info p strong {
+
   font-weight: 700;
 }
 
@@ -671,12 +677,12 @@ main .datos .content_datos .datos_info .dona {
           align-items: center;
   font-family: "Montserrat", sans-serif;
   text-align: center;
-  position: absolute;
   bottom: -57px;
   width: 180px;
   padding: 20px;
   -webkit-transition: linear 0.3s;
   transition: linear 0.3s;
+  margin: auto;
 }
 
 main .datos .content_datos .datos_info .dona strong {
@@ -697,14 +703,34 @@ main .datos .content_datos .datos_info .dona:hover {
   background-color: rgba(250, 194, 0, 0.6);
 }
 
+main .datos_info {
+    overflow: scroll;
+}
+
 main .datos .content_datos .bg_datos {
-  background-image: url(/images/bg_datos.jpg);
+  background-image: url(/images/Laura_Bosques.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top right;
-  width: 76%;
-  height: 70vh;
+  width: 100%;
+  height: 100vh;
 }
+
+
+
+main .gallery {
+  min-height: 70vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+
+}
+
 
 main .logo_footer {
   display: -webkit-box;
@@ -902,5 +928,33 @@ footer a:last-child::after {
   main {
     margin-top: -174px;
   }
+
+
 }
 
+
+.modal-video-text{
+  height: 700px;
+  position: absolute;
+  text-align: justify;
+  right: 0vw;
+
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+  font-size: 16px;
+  padding: 20px;
+
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-bottom: 30px;
+
+  margin-bottom: 60px;
+}
