@@ -113,7 +113,7 @@
 
 
 	 <section class="gallery">
-		  <div id="lightgallery">
+		  <div id="lightgallery" align="center">
 			  <a href="images/gallery/emiliana.jpg" data-fancybox="gallery" data-caption="Emilia Claraco" >
 			    <img src="images/gallery/emilianat.jpg" />
 			  </a>

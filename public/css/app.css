@@ -550,7 +550,7 @@ main .home .container .content_home p {
   max-width: 800px;
   width: 80%;
   margin: 0 auto;
-  margin-top: 6vh;
+  margin-top: 34vh;
   padding:10px;
   font-weight: 100;
 
@@ -722,7 +722,7 @@ main .datos .content_datos .bg_datos {
 main .gallery {
   width: 82%;
   margin: auto;
-  min-height: 70vh;
+  min-height: 50vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -968,35 +968,6 @@ footer a:last-child::after {
 }
 
 
-@media (max-width: 767px) {
-
-  main .gallery {
-    width: 75%;
-  }
-}
-
-@media (max-width: 375px) {
-
-  main .gallery {
-    width: 82%;
-  }
-}
-
-@media (max-width: 360px) {
-
-  main .gallery {
-    width: 85%;
-  }
-
-}
-
-
-@media (max-width: 320px) {
-
-  main .gallery {
-    width: 95%;
-  }
-}
 
 
 
