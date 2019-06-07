@@ -1,6 +1,1 @@
-El 14 de diciembre de 1950 al término de la Segunda Guerra Mundial, se creó el ACNUR para ayudar a
-los millones de europeos desplazados por el conflicto. La Asamblea General de Naciones Unidas otorgó a
-ACNUR un mandato de tres años para completar sus labores y luego disolverse. Hoy, 69 años después,
-nuestra organización continúa con la labor de proteger y asistir a los refugiados alrededor del mundo. En
-México, el ACNUR tiene presencia desde 1982 y ha apoyado a los exiliados de las dictaduras en América
-Latina en los años 1980 y de la Guerra Civil en Centroamérica en los años 1990.
+Los barcos que trasladaron a los españoles a México fueron: el Sinaia (23 de mayo de 1939, con 1800 personas), el Ipanema (7 de julio de 1939 con 998 personas), el Mexique (27 de julio de 1939 con 2200 personas), el Flandra (7 de noviembre de 1939 con 273 personas), el Nyassa (22 de mayo de 1942 con 863 personas) y el Serpa Pinto II (1 de octubre de 1942 con 36 personas).

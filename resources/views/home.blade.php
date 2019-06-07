@@ -117,40 +117,86 @@
 			  <a href="images/gallery/emiliana.jpg" data-fancybox="gallery" data-caption="Emilia Claraco" >
 			    <img src="images/gallery/emilianat.jpg" />
 			  </a>
-
-				<a href="images/gallery/laura.jpg" data-fancybox="gallery" data-caption="Laura Bosques">
+                <a  data-fancybox data-src="#texto-laura-bosques" href="javascript:;" data-caption="Laura Bosques" >
 					<img src="images/gallery/laurat.jpg" />
 				</a>
 
-				<a href="images/gallery/piedad.jpg" data-fancybox="gallery" data-caption="Piedad Semitiel">
+                <a  data-fancybox data-src="#texto-piedad-semitiel" href="javascript:;" data-caption="Piedad Semitiel López" >
 					<img src="images/gallery/piedadt.jpg" />
 				</a>
-
-				<a href="images/gallery/lucinda.jpg" data-fancybox="gallery" data-caption="Lucinda Urrustri">
+                <a  data-fancybox data-src="#texto-lucinda-Urrusti" href="javascript:;" data-caption="Lucinda Urrusti Sanz" >
 					<img src="images/gallery/lucindat.jpg" />
 				</a>
 
 
-				<a href="images/gallery/enrique.jpg" data-fancybox="gallery" data-caption="Enrique Dalias">
+				<a  data-fancybox data-src="#texto-enrique_guarner" href="javascript:;" data-caption="Enrique Guarner Dalias" >
 					<img src="images/gallery/enriquet.jpg" />
 				</a>
-
-				<a href="images/gallery/helios.jpg" data-fancybox="gallery" data-caption="Helio">
+                <a  data-fancybox data-src="#texto-helios_esteves" href="javascript:;" data-caption="Helios Estéves Pérez" >
 					<img src="images/gallery/heliost.jpg" />
 				</a>
 
-
-				<a  data-fancybox data-src="#hidden-content" href="javascript:;" data-caption="Rafael" >
+                <a  data-fancybox data-src="#texto-rafael-urrusti" href="javascript:;" data-caption="Rafael Urrusti Alonso" >
 					<img src="images/gallery/rafalet.png" />
 				</a>
 
-				<a href="https://www.youtube.com/watch?v=hflGH4jKU0k" data-fancybox >
+
+				<a  data-fancybox data-src="#texto-victor-rivera" href="javascript:;" data-caption="Víctor Rivera Grijalva" >
 					<img src="images/gallery/victort.jpg" />
 				</a>
 			</div>
 	 </section>
 
-	 <div style="display: none;" id="hidden-content">
+
+
+    <div style="display: none;" id="texto-victor-rivera">
+           <iframe width="900" height="600" src="https://www.youtube.com/embed/uwTj4wYwBYk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display:unset"></iframe>
+           <div class="modal-video-text"  >
+                      @include('texts.videos.victor_rivera')
+           </div>
+    </div>
+     <div style="display: none;" id="texto-rafael-urrusti">
+            <iframe width="900" height="600" src="https://www.youtube.com/embed/uwTj4wYwBYk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display:unset"></iframe>
+            <div class="modal-video-text"  >
+                       @include('texts.videos.rafael-urrusti')
+            </div>
+     </div>
+     <div style="display: none;" id="texto-piedad-semitiel">
+            <iframe width="900" height="600" src="https://www.youtube.com/embed/uwTj4wYwBYk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display:unset"></iframe>
+            <div class="modal-video-text"  >
+                       @include('texts.videos.piedad-semitiel')
+            </div>
+     </div>
+
+    <div style="display: none;" id="texto-lucinda-Urrusti">
+           <iframe width="900" height="600" src="https://www.youtube.com/embed/uwTj4wYwBYk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display:unset"></iframe>
+           <div class="modal-video-text"  >
+                      @include('texts.videos.lucinda_urrusti')
+           </div>
+    </div>
+     <div style="display: none;" id="texto-laura-bosques">
+			<iframe width="900" height="600" src="https://www.youtube.com/embed/uwTj4wYwBYk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display:unset"></iframe>
+			<div class="modal-video-text"  >
+					   @include('texts.videos.helios_esteves')
+			</div>
+	 </div>
+
+     <div style="display: none;" id="texto-helios_esteves">
+			<iframe width="900" height="600" src="https://www.youtube.com/embed/uwTj4wYwBYk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display:unset"></iframe>
+			<div class="modal-video-text"  >
+					   @include('texts.videos.helios_esteves')
+			</div>
+	 </div>
+
+     <div style="display: none;" id="texto-enrique_guarner">
+			<iframe width="900" height="600" src="https://www.youtube.com/embed/uwTj4wYwBYk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display:unset"></iframe>
+			<div class="modal-video-text"  >
+					   @include('texts.videos.enrrique_dalias')
+			</div>
+	 </div>
+
+     <!-- don't display -->
+	 <div style="display: none;" id="texto-rafael">
 			<iframe width="900" height="600" src="https://www.youtube.com/embed/uwTj4wYwBYk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			<div class="modal-video-text">
 					   @include('texts.videos.rafael')
